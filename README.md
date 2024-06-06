@@ -1,16 +1,20 @@
 # Final-Project-at-Ironhack 2024
 
 In this project I have been adressing my concern of whether Overpopulation is going to be a problem. After some reasearch and finding some good CSV o give me an overview of the world state and the trend in the last 40 years... This was my reaction looking at Birth rates:
-![text]([https://www.google.com/url?sa%3Di%26url%3Dhttps%3A%2F%2Fgiphy.com%2Fexplore%2Fbaby%26psig%3DAOvVaw1WQ3PhCwg5AzARWX6t8Seo%26ust%3D1717770628894000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBQQjRxqFwoTCPj9wrSYx4YDFQAAAAAdAAAAABAQ](https://media3.giphy.com/media/ph6ewybUlGbW8/giphy.gif?cid=6c09b9525y2i9mppzez3mhd41caskj4g8pxyjctaakurta5b&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![scared baby](https://github.com/JavierVillares/Final-Project-at-Ironhack/blob/main/Emojis/giphy.gif)
+
 
 And then I asked myself...
-![text](https://www.google.com/url?sa%3Di%26url%3Dhttps%3A%2F%2Fgiphy.com%2Fexplore%2Fbut-why%26psig%3DAOvVaw3BFruPpNLzAWejFrCosMJm%26ust%3D1717771291040000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBQQjRxqFwoTCLDJv--ax4YDFQAAAAAdAAAAABAX)
+
+![But why](https://github.com/JavierVillares/Final-Project-at-Ironhack/blob/main/Emojis/200w.gif)
+
+
 
 After some thinking I have to go on a quest for answers... And here is my story. 
 
 I first started to look for reasons of commonalities with countries that have a low birthrate. I found that most of them were quite westernized. So i looked into GPD per capita, Average Age, Growth Rates, Death rates AND Education level. 
 
-![text](https://www.google.com/url?sa%3Di%26url%3Dhttps%3A%2F%2Fgiphy.com%2Fexplore%2Ffast-typing%26psig%3DAOvVaw1K4QydxgBydkmSBmwxub7F%26ust%3D1717771587894000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBQQjRxqFwoTCMiV9Pubx4YDFQAAAAAdAAAAABAE)
+![typing](https://github.com/JavierVillares/Final-Project-at-Ironhack/blob/main/Emojis/fast-typing.gif)
 
 
 It worked wonders afte making sure all countries were accounted for. Data was clean working perfecly and with Nulls values. I started to do machine learning and finding the best options that had the highest R^2 score and lowest MSE scores. Found the one (linear regression with a standard scaler). Predicted 20 years into the future and did another prediction of WHEN we would reach a negatavice growth rate. We are just 43 years from getting to a negative growth rate. But That is just pure speculation since it's quite far away into the future and we can't really know for sure...
@@ -18,6 +22,9 @@ Only time will tell.
 
 The results are presented in Tableau. 
 
+
+
+Next steps: Find outliers that have a high birth rate. If there are no countries with High birth rates and high aveerage Education... We need to look at individual families and start digging there. 
 
 
 CREDITS and Licences: 
@@ -67,3 +74,6 @@ Data source: Feenstra et al. (2015), Penn World Table (2021)
 ATTRIBUTION 4.0 INTERNATIONAL
   CC BY 4.0
 Deed
+
+
+Contact via linkedin:  https://www.linkedin.com/in/javier-villares-zabalza-4713311a2/
